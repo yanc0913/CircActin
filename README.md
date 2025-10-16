@@ -12,8 +12,8 @@ These scripts automate preprocessing, measurement, and analysis of actomyosin or
 
 | File | Description |
 |------|--------------|
-| `yc_AO_preprocessing_no_orthoView.ijm` | Preprocesses actin organization (AO) images — includes background correction, ROI cropping, channel separation, and saving ready-to-analyze images (without orthogonal view). |
-| `yc_Actin_laser_GapDistance_new.ijm` | Measures actin gap distance or intensity recovery after laser ablation; designed for analyzing actin reorganization dynamics. |
+| `yc_AO_preprocessing.ijm` | Preprocesses actin organization (AO) images — includes background correction, ROI cropping, channel separation, and saving ready-to-analyze images (without orthogonal view). |
+| `yc_ActinLaser_GapDistance.ijm` | Measures actin gap distance or intensity recovery after laser ablation; designed for analyzing actin reorganization dynamics. |
 | `yc_Measure_actomyosin_intensity.ijm` | Quantifies junctional vs cortical actomyosin intensity along vessel edges, normalizes signals, and outputs results as CSV. |
 
 ---
